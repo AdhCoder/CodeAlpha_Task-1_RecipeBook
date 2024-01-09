@@ -7,8 +7,11 @@ Recipe Book Web App is a project that enables users to manage their favorite rec
 **Features**
 
 Add new recipes with detailed instructions and ingredients.
+
 Edit existing recipes to keep them up-to-date.
+
 Delete recipes that you no longer need.
+
 Beautifully organized recipes in a virtual book format.
 
 **Technologies Used**
